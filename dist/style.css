@@ -61,7 +61,7 @@ nav {
 }
 
 .flex-2 {
-  border-left: 1px dotted #d5d5d5;
+  border-left: 1px dashed #d5d5d5;
   padding: 15px;
   flex-basis: 35%;
 }
