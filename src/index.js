@@ -1,3 +1,5 @@
 import menu from './menu-page'
 
-menu()
+const menuTab = document.querySelector('#menu-button')
+
+menuTab.addEventListener('click', menu)
