@@ -101,3 +101,7 @@ nav {
   margin: 10px;
   list-style-type: none;
 }
+
+h2 {
+  line-height: 30px;
+}
